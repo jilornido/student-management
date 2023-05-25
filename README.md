@@ -10,5 +10,7 @@ Run php artisan migrate
 Unit Test:run
 
 php artisan serve
+
 or
+
 localhost/student-management
