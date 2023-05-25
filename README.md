@@ -7,8 +7,8 @@ Database:
 Setup database connection in .env file
 Run php artisan migrate
 
-Unit Test:
+Unit Test:run
 
-Run php artisan test
+php artisan serve
 or
 localhost/student-management
